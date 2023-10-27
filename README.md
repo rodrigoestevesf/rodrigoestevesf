@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&fontSize=30&fontColor=FFFFFF&fontAlignY=20&color=0366d6&height=120&section=header&animation=fadeIn"/>
-
 <div style="display: flex; justify-content: center;align-items: center;">
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&background=1C1C1C00&center=true&vCenter=true&random=true&width=700&height=60&separator=%3D&lines=print('Welcome+to+my+GitHub!')%3Dstd%3A%3Acout+%3C%3C+%22Welcome+to+my+GitHub!%22+%3C%3C+std%3A%3Aendl;%3DSerial.println(%22Welcome+to+my+GitHub!%22);%3Dconsole.log(%22Welcome+to+my+GitHub!%22);%3DConsole.WriteLine(%22Welcome+to+my+GitHub!%22);)
