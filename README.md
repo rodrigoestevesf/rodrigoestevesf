@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center;align-items: center;">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&background=1C1C1C00&center=true&vCenter=true&random=true&width=1200&height=60&separator=%3D&lines=print('Welcome+to+my+GitHub!')%3Dstd%3A%3Acout+%3C%3C+%22Welcome+to+my+GitHub!%22+%3C%3C+std%3A%3Aendl;%3DSerial.println(%22Welcome+to+my+GitHub!%22);%3Dconsole.log(%22Welcome+to+my+GitHub!%22);%3DConsole.WriteLine(%22Welcome+to+my+GitHub!%22);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&background=1C1C1C00&center=true&vCenter=true&random=true&width=1000&height=60&separator=%3D&lines=print('Welcome+to+my+GitHub!')%3Dstd%3A%3Acout+%3C%3C+%22Welcome+to+my+GitHub!%22+%3C%3C+std%3A%3Aendl;%3DSerial.println(%22Welcome+to+my+GitHub!%22);%3Dconsole.log(%22Welcome+to+my+GitHub!%22);%3DConsole.WriteLine(%22Welcome+to+my+GitHub!%22);)](https://git.io/typing-svg)
   
 </div>
 
