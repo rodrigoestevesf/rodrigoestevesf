@@ -5,8 +5,8 @@
 </div>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rodrigoestevesf&theme=github-dark-blue&hide_border=true&background=0D1117" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoestevesf&theme=github_dark_dimmed&bg_color=0D1117&hide_border=true&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rodrigoestevesf&theme=github-dark-blue&hide_border=true&background=0D11174D" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoestevesf&theme=github_dark_dimmed&bg_color=0D11174D&hide_border=true&layout=compact" />
  </div>
  
  &nbsp;
@@ -24,8 +24,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 ### Studying in this moment
