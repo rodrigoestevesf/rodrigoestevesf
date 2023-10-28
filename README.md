@@ -1,18 +1,20 @@
 <div style="display: flex; justify-content: center;align-items: center;">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&background=1C1C1C00&center=true&vCenter=true&random=true&width=800&height=60&separator=%3D&lines=print('Welcome+to+my+GitHub!')%3Dstd%3A%3Acout+%3C%3C+%22Welcome+to+my+GitHub!%22+%3C%3C+std%3A%3Aendl;%3DSerial.println(%22Welcome+to+my+GitHub!%22);%3Dconsole.log(%22Welcome+to+my+GitHub!%22);%3DConsole.WriteLine(%22Welcome+to+my+GitHub!%22);)](https://git.io/typing-svg)
-  
+
 </div>
+
+<p align="center" style="font-size: 10px;">
+  Industrial automation technician graduated from IFRJ and graduating in Electrical Engineering with an emphasis on robotics and automation. I have a passion for solving problems using computing and engineering.
+</p>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rodrigoestevesf&theme=github-dark-blue&hide_border=true&background=0D111780" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoestevesf&theme=github_dark_dimmed&bg_color=0D111780&hide_border=true&layout=compact" />
- </div>
+</div>
  
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
