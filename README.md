@@ -3,16 +3,13 @@
 </div>
 
 <p align="center" style="font-size: 10px;">
-  Industrial automation technician graduated from IFRJ and graduating in Electrical Engineering with an emphasis on robotics and automation. I have a passion for solving problems using computing and engineering.
+  Industrial automation technician graduated from IFRJ and graduating in Electrical Engineering with an emphasis on robotics and automation. I have a passion for solving problems using computing and engineering. I am currently a member of the Rinobot robotics competition team and part of the PET Electrical Engineering group at UFJF
 </p>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rodrigoestevesf&theme=github-dark-blue&hide_border=true&background=0D111780" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoestevesf&theme=github_dark_dimmed&bg_color=0D111780&hide_border=true&layout=compact" />
 </div>
- 
- &nbsp;
- &nbsp;
 
 ## My Skills
 
